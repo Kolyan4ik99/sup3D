@@ -1,0 +1,3 @@
+/Users/ajgulapparova/Desktop/bubik3d/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ajgulapparova/Desktop/bubik3d/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ajgulapparova/Desktop/bubik3d/cmake-build-debug/CMakeFiles/cubik3d.dir
